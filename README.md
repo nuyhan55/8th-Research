@@ -1,30 +1,23 @@
-# 8th-Research
-# 🐥EURON 8기 Research 세션🐥
+# 📁ARCHIVE - 2025/06/03
 
-## 🗂️ Curriculum
-|주차|날짜|내용|발제자|필수 토의 참여자
-|---|---|---|---|---|
-|0주차|2025/03/04|OT||	
-|1주차|2025/03/11|1주차 논문스터디-ResNet|전연주(A), 조승연(H)|,|
-|2주차|2025/03/18|2주차 논문스터디-Transformer|강민정(B), 김나현(C)|,|
-|3주차|2025/03/25|3주차 논문스터디-GAN|(D), (E)|,|
-|4주차|2025/04/01|4주차 논문스터디-DQN|(F), (G)|,|
-|5주차|2025/04/08|5주차 논문스터디|(A), (B)|,|
-|6주차|2025/04/15|중간고사 휴식기간|||
-|7주차|2025/04/22|중간고사 휴식기간|||
-|8주차|2025/04/29|8주차 논문스터디|(C), (D)|,|
-|9주차|2025/05/06|9주차 논문스터디-비대면(대체공휴일)|(E), (F)|,|
-|10주차|2025/05/13|10주차 논문스터디|(G), (H)|,|
-|11주차|2025/05/20|11주차 논문스터디|(A), (B)|,|
-|12주차|2025/05/27|12주차 논문스터디|(C), (D)|,|
-|13주차|2025/06/03|13주차 논문스터디|(E), (F)|,|
-|14주차|2025/06/10|기말고사 휴식기간|||
-|15주차|2025/06/17|기말고사 휴식기간|||
-|16주차|2025/06/24|16주차 논문스터디 및 프로젝트 아이디에이션|(G), (H)||
-|17주차|2025/07/01|프로젝트 주간 1	
-|18주차|2025/07/08|프로젝트 주간 2	
-|19주차|2025/07/15|프로젝트 주간 3	
-|20주차|2025/07/22|프로젝트 주간 4	
-|21주차|2025/07/29|프로젝트 주간 5	
-|22주차|2025/08/05|프로젝트 주간 6
-|23주차|2025/08/12|프로젝트 발표 및 수료식|||
+## 💚발제 논문💚  
+- [CV] [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640)
+- [GM] [Denoising Diffusion Implicit Models](https://arxiv.org/pdf/2010.02502)
+---
+
+## 💚발표 자료💚
+- [📚Week13_1_김지은](https://github.com/user-attachments/files/20564608/Research_YOLO.pdf)
+- [📚Week13_2_전연주](https://github.com/user-attachments/files/20564628/DDIM_.pdf)
+
+
+
+
+---
+
+## 💚우수 과제💚
+#### 13주차 예습과제
+- [🌟Week13_1_김효민](https://github.com/Kim-Hyomin/8th-Research/blob/5beae4cba7af37b92bb80fa04c91f168c784bc2d/week13_%EC%98%88%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EA%B9%80%ED%9A%A8%EB%AF%BC.pdf)
+- [🌟Week13_2_강민정](https://ionized-fortnight-fd6.notion.site/You-Only-Look-Once-Unified-Real-Time-Object-Detection-20699124e3fb805cb9f0c98ea5c4c2f8?source=copy_link)
+#### 12주차 복습과제
+- [🌟Week12_3_전예지](https://github.com/yejiida/-Euron-8th_Research/blob/8b44887369a73d7b2d2b0a373107fa86a2f9ff22/BLIP_review.ipynb)
+- [🌟Week12_4_김나현](https://github.com/nuyhan55/8th-Research/blob/fd43c475261bf792730b89a1bbd69a7f5ad6426e/Week12_%EB%B3%B5%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EA%B9%80%EB%82%98%ED%98%84.ipynb)
